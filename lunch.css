@@ -18,7 +18,10 @@
   background-color: green;
   color:white;
 }
-
+.headerp {
+    position: relative;
+    text-align: center;
+}
 .instrucDiv{
     height: 300px;
     justify-content: center;
